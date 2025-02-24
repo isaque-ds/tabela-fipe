@@ -2,7 +2,7 @@
 Um projeto para consulta de preços de veículos utilizando a API da Tabela FIPE. Desenvolvido com HTML, CSS e JavaScript para fornecer uma interface simples e intuitiva.
 ## 🖥️ Visualize o Projeto
 
-🔗 Clique aqui para visualizar o projeto: 
+🔗 Clique aqui para visualizar o projeto: https://isaque-ds.github.io/tabela-fipe/
 
 ## Funcionalidas
 ✅ Busca de preços de veículos por marca, modelo e ano..<br>
